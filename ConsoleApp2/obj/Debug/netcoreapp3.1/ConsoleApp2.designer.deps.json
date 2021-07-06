@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EO.WebBrowser/21.1.67": {
+        "runtime": {
+          "lib/EO.Base.dll": {
+            "assemblyVersion": "21.1.67.0",
+            "fileVersion": "21.1.67.0"
+          },
+          "lib/EO.WebBrowser.dll": {
+            "assemblyVersion": "21.1.67.0",
+            "fileVersion": "21.1.67.0"
+          },
+          "lib/EO.WebEngine.dll": {
+            "assemblyVersion": "21.1.67.0",
+            "fileVersion": "21.1.67.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EO.WebBrowser/21.1.67": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6UCG/JY+zCwnANpjmTyytYkf/5nkFAl4y7BAg9z8bqo85e80kC7b5i7Tc3BSzLGHXMErDwwZbNJyafv0jsNuUQ==",
+      "path": "eo.webbrowser/21.1.67",
+      "hashPath": "eo.webbrowser.21.1.67.nupkg.sha512"
+    }
+  }
+}
